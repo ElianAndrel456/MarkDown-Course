@@ -85,4 +85,6 @@ print("hello world"
 - [ ] Task 3
 - [x] Task 4
 
-@anonimus :persevere: :joy:
+@anonimus :persevere: :joy: :cry:
+
+for more [Sintaxis MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
